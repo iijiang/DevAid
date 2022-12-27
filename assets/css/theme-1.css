@@ -494,7 +494,7 @@ pre code {
 .contact {
   padding: 80px 0;
   background: #17baef;
-  color: #fff;
+  /* color: #fff; */
 }
 
 .contact .contact-inner {

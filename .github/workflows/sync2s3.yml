@@ -20,7 +20,7 @@ jobs:
         with:
           args: --acl public-read --follow-symlinks --delete --exclude '.git/*' --exclude '.github/*'
         env:
-          AWS_S3_BUCKET: iifancytest
+          AWS_S3_BUCKET: 'www.iifancy.com'
           AWS_ACCESS_KEY_ID: AKIASMIE7GJCMGHIYG5J
           AWS_SECRET_ACCESS_KEY: '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'
           AWS_REGION: 'ap-southeast-2'

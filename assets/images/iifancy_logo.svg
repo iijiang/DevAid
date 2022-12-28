@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="32.145 232.704 416.981 134.591" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="76.791" y1="196.037" x2="76.791" y2="215.723" id="gradient-1">
+      <stop offset="0" style="stop-color: #bada55"/>
+      <stop offset="1" style="stop-color: #758d29"/>
+    </linearGradient>
+  </defs>
+  <text style="fill: rgba(61, 58, 58, 0.94); font-family: Arial, sans-serif; font-size: 33.5833px; paint-order: fill; stroke: url(#gradient-1); white-space: pre;" transform="matrix(3.796251, 0, 0, 3.870968, -154.284744, -484.115356)" x="48.428" y="211.95">IiFancy</text>
+</svg>
